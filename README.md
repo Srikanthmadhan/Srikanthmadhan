@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Konnichiwa! Welcome to my digital dojo! 🌸</h1>
+<h1 align="center">Welcome to the world of Cheemslawg Maamey! </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" height="200"/>
