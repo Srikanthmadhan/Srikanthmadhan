@@ -1,9 +1,3 @@
-
-
-S
-
-
-Conversation with Gemini
 <h1 align="center">Welcome to the world of Cheemslawg Maamey! </h1>
 
 
